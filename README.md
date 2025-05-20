@@ -10,7 +10,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student at the University of Cincinnati
-- ☁️ Currently on internship at [Megazone Cloud](https://www.megazone.com/us/spaceone/), a Korean cloud technologies company
 - 🛠️ Previous experience in industry:
   - Software Engineer Intern at [Hybrid Technologies](https://hybrid-technologies.co.jp/ir-ht/) working with Flask and Laravel on SaaS solutions for 4 months
   - Quality Assurance Intern at [Hybrid Technologies](https://hybrid-technologies.co.jp/ir-ht/) for 2 months
@@ -18,7 +17,6 @@
   - TA for an [IT Summer Camp at UC](https://cech.uc.edu/schools/it/early-it.html) teaching Godot and cybersecurity to high schoolers for 3 months
 - 🧑‍💻 Developing a [AI Chatbot](https://github.com/VietTT2109/AI-Chatbot) using Django and ChatGPT APIs
 
-### 💼 **Actively Looking for Full-Time, Software Engineer Internship Positions in Summer 2025**
 
 [![Resume Button](https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge)](./Viet_Ton_CS_Resume_Summer_2025.pdf)
 
